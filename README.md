@@ -29,8 +29,8 @@ The **Time Analysis Page** focuses on ride patterns across different time interv
 + **📅 Daily, Weekly, Monthly trends →** To identify peak periods.<br/>
 + **🕒 Hour-of-the-day analysis →** Understand when ride demand is highest (rush hours, weekends, late nights).<br/>
 + 📊 Comparison between **Weekdays vs. Weekends** demand.<br/>
-+ 📈 Seasonal / monthly patterns showing fluctuations in customer demand.<br/>
-**Purpose:**<br/>
++ 📈 Seasonal / monthly patterns showing fluctuations in customer demand.<br>
+**Purpose:**
 Helps operations teams and marketing analysts allocate drivers efficiently, plan promotions, and optimize supply-demand matching.<br/>
 
 ## 3️⃣Details Page<br/>
@@ -38,34 +38,34 @@ The **Details Page** allows granular inspection of each trip record.<br/>
 **🎯 Key Features:**<br/>
 + 🔍 Trip-level details: Pickup location, drop-off location, trip duration, distance, and fare amount.<br/>
 + 🔄 Filter and drill-through options for deep analysis by **city, date, or driver.**<br/>
-+ 📌 Enables exporting specific filtered data for further external analysis.<br/>
++ 📌 Enables exporting specific filtered data for further external analysis.<br>
 **Purpose:**
 Useful for **analysts and auditors** who need complete transparency of individual rides to validate trends or detect anomalies.<br/>
 
 
 ## ⚙️ Tools & Technologies Used<br/>
-- **Power BI Desktop** (data visualization & dashboard building)<br/>
-* **Data Modeling** (relationships between trips, time, geography)<br/>
++ **Power BI Desktop** (data visualization & dashboard building)<br/>
++ **Data Modeling** (relationships between trips, time, geography)<br/>
 + **DAX Measures** (calculated KPIs, time intelligence functions)<br/>
 
 
 ## 📈Key Insights (Example – adjust based on your actual dashboard)<br/>
-- Most rides occur during **evening hours (5–8 PM).**<br/>
-* **Fridays & Saturdays** show the highest demand.<br/>
++ Most rides occur during **evening hours (5–8 PM).**<br/>
++ **Fridays & Saturdays** show the highest demand.<br/>
 + Short-distance rides (<5 km) form the majority of bookings.<br/>
 + Certain urban zones show **higher pickup density**, useful for resource allocation.<br/>
 
 
 ## 🚀 How to Use the Report<br/>
-**1.** Open the #ffffff .pbix #ffffff file in **Power BI Desktop.**<br/>
+**1.** Open the `.pbix`  file in **Power BI Desktop.**<br/>
 **2.** Navigate across the pages: **Overview → Time Analysis → Details.**<br/>
 **3.** Use slicers and filters to interact with the visuals.<br/>
 **4.** Export insights or screenshots for business presentations.
 
 
 ## 🙏 Acknowledgments<br/>
-- **Dataset Source:** Uber rides data (public dataset / Kaggle / internal logs).<br/>
-* **Guidance:** Online learning resources and Power BI community.<br/>
++ **Dataset Source:** Uber rides data (public dataset / Kaggle / internal logs).<br/>
++ **Guidance:** Online learning resources and Power BI community.<br/>
 
 ## 🔗 Connect with Me<br/>
 👤 Author: Neeraj Sharma<br/>
