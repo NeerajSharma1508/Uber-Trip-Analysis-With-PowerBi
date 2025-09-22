@@ -20,7 +20,7 @@ The **Overview Page** gives a high-level summary of Uber trips and helps stakeho
 + ✅ Top pickup and drop-off locations visualized on a map.<br>
 + ✅ Ride distribution by **City / Region** to compare demand.<br>
 + ✅ Rider vs. Driver engagement patterns.<br>
-**Purpose:**<br>
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 This page is best for executives or managers who want a quick snapshot of operations and business health without going into deep details.<br>
 
 ## 2️⃣Time Analysis Page<br>
@@ -30,7 +30,7 @@ The **Time Analysis Page** focuses on ride patterns across different time interv
 + **🕒 Hour-of-the-day analysis →** Understand when ride demand is highest (rush hours, weekends, late nights).<br>
 + 📊 Comparison between **Weekdays vs. Weekends** demand.<br>
 + 📈 Seasonal / monthly patterns showing fluctuations in customer demand.<br>
-**Purpose:**<br>
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 Helps operations teams and marketing analysts allocate drivers efficiently, plan promotions, and optimize supply-demand matching.<br>
 
 ## 3️⃣Details Page<br>
@@ -39,7 +39,7 @@ The **Details Page** allows granular inspection of each trip record.<br>
 + 🔍 Trip-level details: Pickup location, drop-off location, trip duration, distance, and fare amount.<br>
 + 🔄 Filter and drill-through options for deep analysis by **city, date, or driver.**<br>
 + 📌 Enables exporting specific filtered data for further external analysis.<br>
-**Purpose:**<br>
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 Useful for **analysts and auditors** who need complete transparency of individual rides to validate trends or detect anomalies.<br>
 
 
