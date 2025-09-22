@@ -15,30 +15,30 @@ The report is divided into three main pages: **Overview Analysis, Time Analysis,
 ## 1️⃣Overview Analysis Page<br>
 The **Overview Page** gives a high-level summary of Uber trips and helps stakeholders quickly understand the overall business performance.<br>
 **🔑Key Highlights:**<br>
-+ ✅ Total rides completed within the dataset timeframe.<br>
-+ ✅ Total distance covered and revenue generated.<br>
-+ ✅ Top pickup and drop-off locations visualized on a map.<br>
-+ ✅ Ride distribution by **City / Region** to compare demand.<br>
-+ ✅ Rider vs. Driver engagement patterns.<br>
+- ✅ Total rides completed within the dataset timeframe.<br>
+- ✅ Total distance covered and revenue generated.<br>
+- ✅ Top pickup and drop-off locations visualized on a map.<br>
+- ✅ Ride distribution by **City / Region** to compare demand.<br>
+- ✅ Rider vs. Driver engagement patterns.<br>
 𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 This page is best for executives or managers who want a quick snapshot of operations and business health without going into deep details.<br>
 
 ## 2️⃣Time Analysis Page<br>
 The **Time Analysis Page** focuses on ride patterns across different time intervals to uncover demand trends.<br>
 **⭐Key Visuals & Insights:**<br>
-+ **📅 Daily, Weekly, Monthly trends →** To identify peak periods.<br>
-+ **🕒 Hour-of-the-day analysis →** Understand when ride demand is highest (rush hours, weekends, late nights).<br>
-+ 📊 Comparison between **Weekdays vs. Weekends** demand.<br>
-+ 📈 Seasonal / monthly patterns showing fluctuations in customer demand.<br>
+- **📅 Daily, Weekly, Monthly trends →** To identify peak periods.<br>
+- **🕒 Hour-of-the-day analysis →** Understand when ride demand is highest (rush hours, weekends, late nights).<br>
+- 📊 Comparison between **Weekdays vs. Weekends** demand.<br>
+- 📈 Seasonal / monthly patterns showing fluctuations in customer demand.<br>
 𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 Helps operations teams and marketing analysts allocate drivers efficiently, plan promotions, and optimize supply-demand matching.<br>
 
 ## 3️⃣Details Page<br>
 The **Details Page** allows granular inspection of each trip record.<br>
 **🎯 Key Features:**<br>
-+ 🔍 Trip-level details: Pickup location, drop-off location, trip duration, distance, and fare amount.<br>
-+ 🔄 Filter and drill-through options for deep analysis by **city, date, or driver.**<br>
-+ 📌 Enables exporting specific filtered data for further external analysis.<br>
+- 🔍 Trip-level details: Pickup location, drop-off location, trip duration, distance, and fare amount.<br>
+- 🔄 Filter and drill-through options for deep analysis by **city, date, or driver.**<br>
+- 📌 Enables exporting specific filtered data for further external analysis.<br>
 𝐏𝐮𝐫𝐩𝐨𝐬𝐞:<br>
 Useful for **analysts and auditors** who need complete transparency of individual rides to validate trends or detect anomalies.<br>
 
